@@ -1,0 +1,9 @@
+{
+  "[ruby]": {
+    "editor.tabSize": 2
+  },
+  "editor.formatOnSave": true,
+  "solargraph.autoformat": true,
+  "solargraph.diagnostics": true,
+  "solargraph.formatting": true
+}
